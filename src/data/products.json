@@ -1,0 +1,98 @@
+{
+    "pumpkin": {
+        "id"         : "P1",
+        "title"      : "Pumpkin",
+        "sku"        : "DMT49-006",
+        "folder"     : "img/design/",
+        "introImg"   : "Pumpkin.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png",
+        "designs"    : {
+            "P1D1":[3,2,1],
+            "P1D2":[1,2,3]
+        },
+        "fonts":[
+            "Londrina Solid",
+            "Butcherman",
+            "Nosifer",
+            "Peralta",
+            "Spicy Rice"
+          ],
+        "colors":[
+            "#000000",
+            "#FFFFFF",
+            "#b11224",
+            "#fff200",
+            "#2f9fd7",
+            "#31ac55",
+            "#f26f22",
+            "#603a34"
+          ]
+    },
+    "circle":{
+        "id"         : "P2",
+        "title"      : "Circle",
+        "sku"        : "DMT49-003",
+        "folder"     : "img/design/",
+        "introImg"   : "Circle.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png",
+        "designs"    : {
+            "P2D1":[2,3,1],
+            "P2D2":[4,2,1,3],
+            "P2D3":[3,2,1],
+            "P2D4":[1,2,3],
+            "P2D5":[1,2,3],
+            "P2D6":[1,2,3]
+        },
+        "fonts":[
+            "Londrina Solid",
+            "Butcherman",
+            "Nosifer",
+            "Peralta",
+            "Spicy Rice"
+          ],
+        "colors":[
+            "#000000",
+            "#FFFFFF",
+            "#b11224",
+            "#fff200",
+            "#2f9fd7",
+            "#31ac55",
+            "#f26f22",
+            "#603a34"
+          ]
+    },
+    "bear": {
+        "title"      : "Bear",
+        "sku"        : "PH-01",
+        "folder"     : "img/design/",
+        "introImg"   : "Bear.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png"
+    },
+    "butterFly": {
+        "title"      : "Butterfly",
+        "sku"        : "PH-02",
+        "folder"     : "img/design/",
+        "introImg"   : "Butterfly.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png"
+    },    
+    "flower": {
+        "title"      : "Flower",
+        "sku"        : "PH-03",
+        "folder"     : "img/design/",
+        "introImg"   : "Flower.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png"
+    },
+    "heart": {
+        "title"      : "Heart",
+        "sku"        : "PH-04",
+        "folder"     : "img/design/",
+        "introImg"   : "Heart.png",
+        "overlay"    : "Overlay.png",
+        "background" : "Background.png"
+    }
+}
